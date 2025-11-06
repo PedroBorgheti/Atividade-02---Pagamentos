@@ -1,0 +1,15 @@
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\bin\Debug\net8.0\Pagamentos.exe
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\bin\Debug\net8.0\Pagamentos.deps.json
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\bin\Debug\net8.0\Pagamentos.runtimeconfig.json
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\bin\Debug\net8.0\Pagamentos.dll
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\bin\Debug\net8.0\Pagamentos.pdb
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.AssemblyInfoInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.AssemblyInfo.cs
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.sourcelink.json
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.dll
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\refint\Pagamentos.dll
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.pdb
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\Pagamentos.genruntimeconfig.cache
+C:\Users\borgh\OneDrive\Documents\Git\Atividade-02---Pagamentos\src\Pagamentos\obj\Debug\net8.0\ref\Pagamentos.dll
